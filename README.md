@@ -40,6 +40,6 @@ you can select movies on shows from different geners also you can sort movies an
 
 That is it. 
 Thank you!
-![Screenshot (112)]()
+
 
 
