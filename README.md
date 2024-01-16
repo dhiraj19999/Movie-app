@@ -1,29 +1,22 @@
-# Home-Decor
+# MOVIX
 
-Collaborative Project 
-Team Members: 
-1. Akash Singh<br />
-2. Ahmad Khan <br />
-3. Dhiraj Garad <br />
-4. Kamal Gupta <br />
-5. Snehil Agrahari (Project Lead)<br />
+Individual Project 
 
-<h1 align="center"> Home Decor </h1>
+
+<h1 align="center"> MOVIX APP </h1>
 <h2>Homepage</h2>
 
 
 
-<img src="https://user-images.githubusercontent.com/112630634/213929836-17fec47c-a276-41e5-8012-1566c3c33a0d.png" alt="HomePage" />
+<img src="https://image.tmdb.org/t/p/original/wDSleqaukgwU8kILLrpP4Kf60eV.jpg" alt="HomePage" />
 
 
-<b>Home Decor</b> is an E-commerce website which provides its customer with a large variety of products starting from day to day groceries to trending and stylish clothing.
-Home Decor provides its users with following features: <br />
-1. Sign-in/Sign-up<br />
-2. Search Products<br />
-3. Apply filters & sort according to price or discount<br />
-4. Add item to cart<br />
-5. Place order <br />
-6. See earlier orders <br />
+<b>MOVIX</b> Moviex is an platform where you can see the cast , reviews and trailers about movies: <br />
+1. Sorting<br />
+2. Search Movie<br />
+3.  Selecting the Geners<br />
+4. Switch from Move to Shows and vice-versa<br />
+5. See latest movie and show's Review,cast and trailer  <br />
 <hr />
 
 
@@ -43,14 +36,6 @@ On Products page you can find different filter and sorting options which you can
 Once you click on any product from products page you will be redirected to the product details page where you see a more detailed version of product and also can find the other images of product.
 <img src="https://user-images.githubusercontent.com/112630634/213930364-eae3b152-f4b0-4e08-ba9c-34d3d5dd1e7d.png" alt="ProductPage" />
 
-<h2>Cart</h2>
-In cart you will see all the items you have added to cart so far and on top you can see the sub total of cart. Also you will find an option to place your order.
-<img src="https://user-images.githubusercontent.com/112630634/213930427-3bb0a223-e99e-4642-8d26-c4b2c0bffef5.png" alt="Cart" />
-
-<h2>Checkout</h2>
-On clicking the place order button in cart you will be navigated to checkout page where you can place your order with different options of patyment. The shipping address is hardcoded for now and will be updated in later versions. Only cash on delivery option makes a 
-successful order.
-<img src="https://user-images.githubusercontent.com/112630634/213930501-ca3fec7a-9ad3-4267-872d-229503cbff13.png" alt="Checkout" />
 
 <h2>Your Orders</h2>
 You can list all your earlier and current order in Orders Page. And if you all the items in a particular order are cancellable you can cancel the order as well.
