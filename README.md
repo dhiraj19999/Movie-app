@@ -27,7 +27,7 @@ Individual Project
 
 
 <img src="https://github.com/dhiraj19999/Movie-app/assets/106136277/b2780632-6324-4d6b-b80d-243788dac411" alt="image" />
-Once you click on any movie or show you redirected to Single page <b>1234</b>. There are no auth integrations yet which will come in later versions.
+Once you click on any movie or show you redirected to Single page . There are no auth integrations yet which will come in later versions.
 
 <h2> Cast </h2>
 
@@ -37,10 +37,11 @@ Once you click on any movie or show you redirected to Single page <b>1234</b>. T
 
 <h2>Geners and Sorting </h2>
 you can select movies on shows from different geners also you can sort movies and shows
-<img src="https://user-images.githubusercontent.com/112630634/213930364-eae3b152-f4b0-4e08-ba9c-34d3d5dd1e7d.png" alt="ProductPage](https://github.com/dhiraj19999/Movie-app/assets/106136277/a984e35b-8b10-412b-9ade-7483d77d8e36)https://github.com/dhiraj19999/Movie-app/assets/106136277/a984e35b-8b10-412b-9ade-7483d77d8e36" />
+<img src="https://github.com/dhiraj19999/Movie-app/assets/106136277/b8d9d8c3-5433-4253-bb31-253a334c6b53" />
 
 
 That is it. 
 Thank you!
+![Screenshot (112)]()
 
 
