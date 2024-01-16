@@ -8,7 +8,8 @@ Individual Project
 
 
 
-<img src="https://image.tmdb.org/t/p/original/wDSleqaukgwU8kILLrpP4Kf60eV.jpg" alt="HomePage" />
+
+<img src="https://github.com/dhiraj19999/Movie-app/assets/106136277/3f4d28c9-d380-4305-a361-c9ba35439067" />
 
 
 <b>MOVIX</b> Moviex is an platform where you can see the cast , reviews and trailers about movies: <br />
