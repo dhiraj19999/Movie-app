@@ -10,7 +10,7 @@
 <img src="https://github.com/dhiraj19999/Movie-app/assets/106136277/3f4d28c9-d380-4305-a361-c9ba35439067" />
 
 
-<b>MOVIX</b> Moviex is an platform where you can see the cast , reviews and trailers about movies: <br />
+<b>MOVIX</b>  is an platform where you can see the cast , reviews and trailers about movies: <br />
 1. Sorting<br />
 2. Search Movie<br />
 3.  Selecting the Geners<br />
