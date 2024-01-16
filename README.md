@@ -1,6 +1,4 @@
-# MOVIX
 
-Individual Project 
 
 
 <h1 align="center"> MOVIX APP </h1>
