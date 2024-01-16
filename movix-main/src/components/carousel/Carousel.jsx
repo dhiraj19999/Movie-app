@@ -1,9 +1,10 @@
 import React, { useRef } from "react";
+
+import { useNavigate } from "react-router-dom";
 import {
     BsFillArrowLeftCircleFill,
     BsFillArrowRightCircleFill,
 } from "react-icons/bs";
-import { useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import dayjs from "dayjs";
 
